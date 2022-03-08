@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phan Phu</h1>
-<h3 align="center">A passionate fullStack developer from Vietnam</h3>
+<h3 align="center">A passionate Full-Stack developer from Vietnam</h3>
 
 - 🔭 I’m front-end developer of L7-Market Place [Legends Of The 7 Kingdoms](https://www.l7.digital/)
 
